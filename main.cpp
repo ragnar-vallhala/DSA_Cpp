@@ -1,5 +1,6 @@
 #include <iostream>
+#include "Queue.h"
 
 int main(){
-    std::cout<<"Hello from the depth!";
+    Queue q = Queue();
 }
