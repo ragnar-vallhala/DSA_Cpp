@@ -1,0 +1,168 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+
+# Visual Studio Code
+.vscode/
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Compiled Qt files
+moc_*
+ui_*
+qrc_*
+
+# Eclipse
+.settings/
+
+# Xcode
+*.xcworkspace/
+*.xcodeproj/
+
+# Code::Blocks
+*.cbp
+*.depend
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Text Editor Configurations
+*~
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*.log
+
+# Jetbrains IDEs
+.idea/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+
+# CMake build directory
+build/
+bin/
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio Code
+.vscode/
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Compiled Qt files
+moc_*
+ui_*
+qrc_*
+
+# Eclipse
+.settings/
+
+# Xcode
+*.xcworkspace/
+*.xcodeproj/
+
+# Code::Blocks
+*.cbp
+*.depend
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Text Editor Configurations
+*~
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*.log
+
+# Jetbrains IDEs
+.idea/
+
+
+[Bb][Uu][Ii][Ll][Dd]/
