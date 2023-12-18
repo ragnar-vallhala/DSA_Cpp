@@ -1,6 +1,6 @@
 #include <iostream>
-#include "Queue.h"
+#include "List.h"
 
 int main(){
-    Queue q = Queue();
+    std::cout<<"Hello, List!";
 }
