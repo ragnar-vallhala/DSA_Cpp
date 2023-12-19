@@ -14,6 +14,7 @@ target_sources(${CMAKE_PROJECT_NAME}
     PRIVATE
     src/Queue.cpp 
     include/List.h
+    include/Stack.h
 )
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_BINARY_DIR}/bin)
